@@ -1,0 +1,26 @@
+.book-item {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.book-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.book-item h3 {
+  font-size: 1.2em;
+  color: #333;
+  margin: 10px 0;
+}
+
+.book-item p {
+  font-size: 0.9em;
+  color: #666;
+  margin: 5px 0;
+}
